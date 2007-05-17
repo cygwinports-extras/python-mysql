@@ -1,0 +1,6 @@
+ORIG_PN=MySQL-python
+
+inherit distutils
+
+HOMEPAGE="http://mysql-python.sourceforge.net/"
+SRC_URI="http://umn.dl.sourceforge.net/mysql-python/${ORIG_PN}-${PV}.tar.gz"
