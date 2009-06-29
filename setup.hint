@@ -1,4 +1,4 @@
 category: Database Python
-requires: cygwin python libmysqlclient15
+requires: python libmysqlclient15
 sdesc: "Python bindings for the MySQL client library"
 ldesc: "Python bindings for the MySQL client library"
